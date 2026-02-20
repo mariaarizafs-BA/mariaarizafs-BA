@@ -12,7 +12,9 @@ Industrial Engineer with 3+ years of experience in Business and Data Analysis. I
 ### 👩‍💻 Tech Stack
 - SQL  
 - Advanced Excel  
-- Data Analysis & Reporting  
+- Data Analysis & Reporting
+- Tableau
+- Power BI
 - Financial Analysis  
 - Process Optimization  
 - Business Analysis  
